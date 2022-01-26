@@ -58,3 +58,6 @@ __IP,Username.ID,Nitro,Badges,Billing,Email,Password,Token,2faCodes,Friends__
 - IP
 - Remove QR Code
 - BetterDiscord Protection Remover
+- 
+![unknown](https://user-images.githubusercontent.com/98334039/151188075-c0c85756-0ae5-4c90-a865-7609799a5785.png)
+
